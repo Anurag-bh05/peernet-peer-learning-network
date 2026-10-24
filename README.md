@@ -1,4 +1,5 @@
 # PeerNet - Peer Learning & Doubt Resolution Network
+Full-stack peer-learning platform for asking doubts, matching with helpers, and sharing answers.
 Full Stack Development-II (24CSP-337) capstone project.
 **Frontend:** React (Vite) | **Backend:** Spring Boot 3 (Java 25) | **DB:** PostgreSQL (H2 for quick local run) | **Cache:** Redis | **Real-time:** WebSocket (STOMP) | **Auth:** JWT + RBAC
 
