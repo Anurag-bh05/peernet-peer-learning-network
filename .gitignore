@@ -1,0 +1,11 @@
+node_modules/
+dist/
+target/
+.env
+.env.*
+!.env.example
+.env.local
+.idea/
+.vscode/
+.github/modernize/
+backend/.github/modernize/
